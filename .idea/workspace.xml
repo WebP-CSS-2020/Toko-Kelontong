@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52a14b4b-ae86-42ad-9238-c052bb434734" name="Default Changelist" comment="" />
+    <list default="true" id="52a14b4b-ae86-42ad-9238-c052bb434734" name="Default Changelist" comment="Prototype kasar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +16,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lK84inwWihUgDp1vHQc91xvr1Y" />
@@ -63,12 +68,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607334233617</updated>
-      <workItem from="1607334235217" duration="20551000" />
+      <workItem from="1607334235217" duration="20995000" />
     </task>
+    <task id="LOCAL-00001" summary="Prototype kasar">
+      <created>1607367329460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607367329460</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prototype kasar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prototype kasar" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
